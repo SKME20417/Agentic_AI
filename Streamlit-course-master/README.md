@@ -41,4 +41,3 @@ You will learn how to build data apps, create interactive user interfaces, work 
 
 ---
 
-Subscribe to Chaicode or visit [Chaicode.com](https://www.chaicode.com) to get more detailed content about Streamlit.
